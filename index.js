@@ -27,7 +27,7 @@ class LambdaXRouter {
 	opts.apiPath = (opts.apiPath || '/');
 	opts.logger = (opts.logger || console);
 	opts.apiDirFull = path.join(appRoot, opts.apiDir);
-	opts.apiDirFull = 'E:\\1work\\niiknow\\lambdaxrouter\\tests\\api';
+	// opts.apiDirFull = 'E:\\1work\\niiknow\\lambdaxrouter\\tests\\api';
 
     this.app = app;
     this.opts = opts || {};
