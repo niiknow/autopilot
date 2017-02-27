@@ -26,5 +26,8 @@
   "repository": "git://github.com/niiknow/lambdaxrouter.git",
   "engines": {
     "node": "*"
+  },
+  "devDependencies": {
+    "express": "^4.14.1"
   }
 }
