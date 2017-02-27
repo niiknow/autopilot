@@ -1,0 +1,30 @@
+{
+  "name": "lambdaxrouter",
+  "description": "Express router middleware for RESTful API base on certain folder path",
+  "version": "0.1.0",
+  "author": "friends <friends@niiknow.org>",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "lodash": "^4.17.4",
+    "methods": "^1.1.2",
+    "require-reload": "^0.2.2"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api",
+    "ajax",
+    "controller",
+    "filter"
+  ],
+  "repository": "git://github.com/niiknow/lambdaxrouter.git",
+  "engines": {
+    "node": "*"
+  }
+}
